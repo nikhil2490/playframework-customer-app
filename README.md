@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [<img src="https://img.shields.io/travis/playframework/play-java-starter-example.svg"/>](https://travis-ci.org/playframework/play-java-starter-example)
 
 # Play Java Starter
@@ -55,3 +56,7 @@ There are several demonstration files available in this template.
 - ExampleFilter.java
 
   A simple filter that adds a header to every response.
+=======
+# playframework-customer-app
+CRUD operation using play framework
+>>>>>>> 064b5a661fc79232daa5ca1e3b24eb81b315536d
